@@ -1,4 +1,4 @@
-# Scalar Pipeline Processor Simulator
+# Scalar Pipeline Simulator
 
 ## Overview
 
